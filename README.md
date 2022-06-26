@@ -1,4 +1,4 @@
-# clima_self
+# CLIMA
 
 A new Flutter project.
 
